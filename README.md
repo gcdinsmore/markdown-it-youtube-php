@@ -79,5 +79,5 @@ Some text
 I'm using the same [MIT][2] license that markdown-it and markdown-it-php are using.
 
 [1]: https://github.com/kaoken/markdown-it-php/
-[2]: https://github.com/gcdinsmore/markdown-it-youtube-php/LICENSE
+[2]: https://github.com/gcdinsmore/markdown-it-youtube-php/blob/main/LICENSE
 [3]: https://developers.google.com/youtube/iframe_api_reference
