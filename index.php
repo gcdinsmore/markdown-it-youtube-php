@@ -11,7 +11,7 @@
 require_once __DIR__.'/vendor/autoload.php';
 
 use Kaoken\MarkdownIt\MarkdownIt;
-use SaltyGeek\YoutubeIt\YoutubeIt;
+use GCDinsmore\YoutubeIt\YoutubeIt;
 
 $md = new MarkdownIt([
 	"html"=> false,
