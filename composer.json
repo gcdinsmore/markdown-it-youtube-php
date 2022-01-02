@@ -1,0 +1,25 @@
+{
+	"name": "gcdinsmore/markdown-it-youtube-php",
+	"type": "library",
+	"description": "YouTube Markdown plugin for markdown-it-php",
+	"keywords": ["markdown", "youtube"],
+    "homepage": "https://github.com/gcdinsmore/markdown-it-youtube-php",
+    "license": "MIT",
+	"require": {
+		"php": ">=7.4.0",
+		"kaoken/markdown-it-php": "^12.3"
+	},
+	"authors": [ {
+		"name": "Glen Dinsmore",
+		"homepage": "https://saltygeek.com",
+		"email": "glen@saltygeek.com"
+	} ],
+	"autoload": {
+		"psr-4": {
+			"GCDinsmore\\": "src/"
+		}
+	},
+	"require-dev": {
+		"phpunit/phpunit": "9"
+	}
+}
